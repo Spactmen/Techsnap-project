@@ -267,3 +267,15 @@ body{
         width: 180px;
     }
 }
+
+@media (max-width: 370px){
+    .box-2{
+        width: 80%;
+    }
+    .container .box-2 #cimage{
+        height:130px;
+    }  
+
+  
+}
+
